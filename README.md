@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋</h1>
-____
+
 <h3 align="center">iOS Developer 💻</h3>
 
 Skills: UIKit / MVC / MVP / MVVM / GCD / Alamofire / URLSession / CoreData / OOP / SOLID
