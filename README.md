@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there👋</h1>
 #### IOS Developer💻
 
 Skills: UIKit / MVC / MVP / MVVM / GCD / Alamofire / URLSession / CoreData / OOP / SOLID
