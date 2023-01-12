@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Alexey
+## Hi there 👋
 #### IOS Developer💻
 
 Skills: UIKit / MVC / MVP / MVVM / GCD / Alamofire / URLSession / CoreData / OOP / SOLID
